@@ -1,0 +1,15 @@
+{
+  "name": "github_search",
+  "version": "1.0.0",
+  "description": "A simple app for searching Github users. Returns their profiles.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "github",
+    "webapp"
+  ],
+  "author": "W Hassan",
+  "license": "ISC"
+}
